@@ -1,0 +1,12 @@
+{
+  "name": "adspy-intelligence-api",
+  "version": "2.0.0",
+  "description": "Backend para AdSpy Intelligence — proxy Meta Ad Library API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
